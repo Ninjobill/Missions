@@ -1,0 +1,36 @@
+The first mission is to set up a GitHub repo, and use Visual studio (free) to create a C# console application that gives me the option of three greetings.
+
+ It has to be committed and pushed to that repo so I can look at it when it's done
+
+************
+mission log:
+
+First time ever using Visual Studio and learning C#.
+
+my screen recordings failed...
+Downloaded some free software off microsoft store and didnt notice till I was done with the project that it only records 3 minutes at a time.
+
+But to sum up what I did and how long it took,
+took me 2 hours in total start to finish with downloading Visual Studio.
+
+While Visual Studio was downloading I read a small part of the book 'C# programming Yellow Book'. Download for free at csharpcourse.com.
+
+Really only looked at pages 14-17.
+
+Then viewed this youtube video https://www.youtube.com/watch?v=6ocHr0ICuGU
+
+just a few minutes of this one after https://www.youtube.com/watch?v=UGQX97XNF-A
+
+I youtube searched 'C# console that gives greeting'
+scrolled a bit and was lucky enough to find this video https://www.youtube.com/watch?v=3foH7ZfC-Hk
+
+it's a text adventure game.
+I sped my way through it but I knew this video would have exactly what I needed. 
+
+Because from the start I knew I would need to Present the 3 options and then need some sort of action to pick a greeting and then display that greeting, and the Text adventure does exactly that. 
+
+So I borrowed the principles of what he did in the game to make my greeting App.
+
+Next time i'll have full video of the whole thing, found out my Graphics card has the GE Experience thing used for recording games and it works perfectly... 
+
+Watched this video to help me push to GitHub https://www.youtube.com/watch?v=nRI3OVavUbE
